@@ -1,9 +1,4 @@
----
-title: Home
----
-# educational
+# Educational
 Anything that could help the instructor and students
 
-## [Free Tools & Resources for IT Educators](/edu-tools-guide)
-
----
+See website @ [mcorrridor.campusshare.org](https://mcorridor.campusshare.org/)
